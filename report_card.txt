@@ -1,0 +1,12 @@
+
+Report Card for rani (Roll No: gh)
+--------------------------------
+Math: 45
+Physics: 34
+Urdu: 23
+English: 44
+Computer: 33
+Total: 179/500
+Percentage: 35.80%
+Grade: Fail
+
