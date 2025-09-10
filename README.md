@@ -41,6 +41,8 @@ _hello_
 
 📘 Student Report Card: A simple Python tool to input data, calculate grades &amp; save reports! 📝🚀
 
+I need to highlight these ==very important words==.
+
 
 
 | Syntax | Description |
