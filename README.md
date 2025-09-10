@@ -15,7 +15,7 @@ _hello_
    2. by
 3. bye
 4. enter
-  - go
+   - 7
 8. hiiii
 
 - apple
