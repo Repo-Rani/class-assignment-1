@@ -17,13 +17,13 @@ _hello_
 4. enter
 8. hiiii
 
--apple
--mango
--banana
+- apple
+- mango
+- banana
 
-*apple
-*mano
-*banana
+* apple
+* mano
+* banana
 
 
 [![alt text](https://play-lh.googleusercontent.com/ZyWNGIfzUyoajtFcD7NhMksHEZh37f-MkHVGr5Yfefa-IX7yj9SMfI82Z7a2wpdKCA "google")](https://www.google.com/)
